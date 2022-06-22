@@ -1,0 +1,24 @@
+Data Peserta Lomba Parmatika
+nama 1 : Agus                  
+nim 1 : 2100018160
+nama 2 : Eko
+nim 2 : 2100018203
+nama 3 : Junaedi
+nim 3 : 2100018283
+nama 4 : Nela
+nim 4 : 2100018301
+nama 5 : Dinar
+nim 5 : 2100018305
+
+Tampilan Output :
+Peserta Lomba Parmatika
+1. Nama  : Agus
+   NIM   : 2100018160
+2. Nama  : Eko
+   NIM   : 2100018203
+3. Nama  : Junaedi
+   NIM   : 2100018283
+4. Nama  : Nela
+   NIM   : 2100018301
+5. Nama  : Dinar
+   NIM   : 2100018305
